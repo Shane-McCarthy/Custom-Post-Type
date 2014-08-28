@@ -1,4 +1,4 @@
-plugins
+Wordpress Custom Post Type Plugin 
 =======
 WP Custom post type plugin 
 
